@@ -1,0 +1,34 @@
+table{
+    color: whitesmoke;
+    margin-top: 90px;
+    margin: auto;
+}
+
+.buton{
+    width: 90px;
+    height: 80px;
+    background-color: hotpink;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+    border: 4px;
+    border-radius: 8px;
+}
+
+.buton:hover{
+    background-color: pink;
+}
+
+#islem{
+    background-color: lightpink;
+    text-align: end;
+    padding: 20px;
+
+}
+
+h1{
+    padding-top: 30px;
+    text-align: center;
+    font-style: initial;
+    
+}
